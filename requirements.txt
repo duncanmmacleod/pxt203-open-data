@@ -1,0 +1,5 @@
+gwosc==0.4.0
+gwpy==0.14.0
+lalsuite==6.53
+pycbc==1.13.4
+scipy==1.2.0
