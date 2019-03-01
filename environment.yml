@@ -1,0 +1,9 @@
+name: pxt203-py27
+channels:
+  - conda-forge
+dependencies:
+  - python 2.7.15
+  - gwosc 0.4.0
+  - gwpy 0.14.0
+  - pycbc 1.13.4
+  - scipy 1.2.0
